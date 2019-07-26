@@ -1,7 +1,8 @@
 #include <math.h>
 #include "RankineEarthPressure.h"
 #include "LateralEarthPressure.h"
-
+ 
+// Check for updates using 8th edtition
 RankineEarthPressure::RankineEarthPressure() : LateralEarthPressure()
 {
 
